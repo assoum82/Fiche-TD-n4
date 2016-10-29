@@ -20,3 +20,4 @@ public class PointNom extends PointA {
         return this.Name + "("+ getX () +","+ getY() +")";
     }
 }
+//
